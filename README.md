@@ -67,10 +67,6 @@ import "@tajir/footer/styles.css";
 <TajirFooter app="bridge" theme={theme} />
 ```
 
-## What comes from the API
-
-`GET /settings` supplies logo dark/light, copyright, disclaimer, audit badge, social icons, and contact email. Column links (Network, Developers, Resources, Legal) are defined in the package because the settings endpoint does not return them.
-
 ## Develop
 
 ```bash
