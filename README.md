@@ -19,7 +19,7 @@ npm install @tajir/footer
 From a GitHub repo until the package is published:
 
 ```bash
-npm install github:Tajir-Chain/tajir-footer
+npm install https://github.com/MT-Tajir-Chain/tajir-footer
 ```
 
 ## Props
